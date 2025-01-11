@@ -1,2 +1,2 @@
 # Coaching-Center
-This website is for testing and learning
+This website is for testing and learning. You can read and learn from this.
